@@ -2,9 +2,9 @@
 This repository is for the homepage of Insomnia Killern in Design Thinking course starting from 2017 fall.
 ![](https://github.com/Design-Thinking/Design-Thinking.github.io/blob/master/img/Read_me_home.jpg)
 
-所有的文档请在_pose文件夹中编写，所需要的图片资源放在img文件夹中。文件编写的具体例子如下：
+所有的文档请在_pose文件夹中编写，所需要的图片资源放在img文件夹中。采用和wiki中一样的Markdown语言，文件编写的具体例子如下：
 
----
+\---
 
 layout: post
 
@@ -14,8 +14,7 @@ date:   2014-01-27 21:57:11
 
 categories: jekyll update
 
----
-
+\---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 
@@ -42,6 +41,8 @@ print_hi('Tom')
 
 #插入连接
 
+---
+
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
@@ -49,6 +50,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:    http://jekyllrb.com
 
 
+---
 
 可以看到在博文的最上方有被两个---包裹起来的一段，这里就定义了文章的一些参数，更多参数在[标题信息](http://jekyll.com.cn/docs/frontmatter/)和[常用变量](http://jekyll.com.cn/docs/variables/)获取，简单的只需要关注几个就好：
 
