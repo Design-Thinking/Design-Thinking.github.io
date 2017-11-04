@@ -5,8 +5,8 @@ This repository is for the homepage of Insomnia Killern in Design Thinking cours
 
 所有的文档请在_pose文件夹中编写，所需要的图片资源放在img文件夹中。采用和wiki中一样的Markdown语言，文件编写的具体例子如下：
 
-\---
-
+>\---
+>
 >layout: post
 >
 >title:  "Welcome to Jekyll!"
@@ -15,13 +15,13 @@ This repository is for the homepage of Insomnia Killern in Design Thinking cours
 >
 >categories: jekyll update
 >
-\---
+>\---
 
->You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
->
->To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
->
->Jekyll also offers powerful support for code snippets:
+->You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+->
+->To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+->
+->Jekyll also offers powerful support for code snippets:
 
 
 
