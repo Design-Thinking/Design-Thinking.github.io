@@ -12,7 +12,7 @@ github_repo: "https://github.com/Design-Thinking/Design-Thinking.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Needs determine what we going to design!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/About_Me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
