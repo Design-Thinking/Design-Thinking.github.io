@@ -49,7 +49,8 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:    http://jekyllrb.com
 
 
-可以看到在博文的最上方有被两个---包裹起来的一段，这里就定义了文章的一些参数，更多参数在[标题信息](http://jekyll.com.cn/docs/frontmatter)和[常用变量](http://jekyll.com.cn/docs/variables)获取，简单的只需要关注几个就好：
+
+可以看到在博文的最上方有被两个---包裹起来的一段，这里就定义了文章的一些参数，更多参数在[标题信息](http://jekyll.com.cn/docs/frontmatter/)和[常用变量](http://jekyll.com.cn/docs/variables/)获取，简单的只需要关注几个就好：
 
 1. title：文章的标题
 
