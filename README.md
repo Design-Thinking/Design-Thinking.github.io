@@ -1,7 +1,7 @@
 # Insomnia Killer
 This repository is for the homepage of Insomnia Killern in Design Thinking course starting from 2017 fall.
 
-![](https://github.com/Design-Thinking/Design-Thinking.github.io/blob/master/img/Read_me_home.jpg)
+![](https://github.com/Design-Thinking/Core-function-display/blob/master/Products/%E4%B8%BB%E9%A2%98%E5%B1%95%E7%A4%BA.jpg?raw=true)
 
 所有的文档请在_pose文件夹中编写，所需要的图片资源放在img文件夹中。采用和wiki中一样的Markdown语言，文件编写的具体例子如下：
 
